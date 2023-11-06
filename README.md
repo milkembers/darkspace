@@ -1,8 +1,15 @@
-# Dark Space Theme
+<h1 align="center">
+	✨ darkspace
+</h1>
 
-**[v1.1.0](https://addons.mozilla.org/en-US/firefox/addon/nicothin-space/?utm_content=repo&utm_medium=referral&utm_source=github.com) - Most popular and Highest rated Firefox Theme 🎉**
+<p align="center">
+		<img alt="works on Firefox" src="https://img.shields.io/badge/works_on-firefox-ff8c28?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+</p>
 
-![preview](https://addons.mozilla.org/user-media/version-previews/full/3827/3827732.svg)
+<br /><p align="center">
+	simple dark theme with dynamic background. based on 'Animation of Stars' released by Vimeo under CC0 license.
+</p>
 
-
-Simple dark theme with dynamic background. Based on video 'Animation of Stars' released by Vimeo under Creative Commons (CC0) license. 
+<br /><p align="center">
+	<img alt="preview" src="https://addons.mozilla.org/user-media/version-previews/full/3827/3827732.svg">
+</p>
